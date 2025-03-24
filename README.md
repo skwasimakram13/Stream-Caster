@@ -1,6 +1,6 @@
 # Stream Caster
 
-ScreenCaster is an Android service that captures the device screen and streams it using WebRTC. This project leverages the Android `MediaProjection` API and WebRTC for real-time screen sharing.
+Stream Caster is an Android service that captures the device screen and streams it using WebRTC. This project leverages the Android `MediaProjection` API and WebRTC for real-time screen sharing.
 
 ## Features
 - **Screen Capture**: Uses `MediaProjection` to capture the screen.
@@ -20,8 +20,8 @@ ScreenCaster is an Android service that captures the device screen and streams i
 ## Setup & Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/ScreenCaster.git
-   cd ScreenCaster
+   git clone https://github.com/your-repo/StreamCaster.git
+   cd StreamCaster
    ```
 2. Open the project in Android Studio.
 3. Add the required WebRTC dependency in `build.gradle`:
