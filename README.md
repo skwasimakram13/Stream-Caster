@@ -20,8 +20,8 @@ Stream Caster is an Android service that captures the device screen and streams 
 ## Setup & Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/StreamCaster.git
-   cd StreamCaster
+   git clone https://github.com/skwasimakram13/Stream-Caster.git
+   cd Stream-Caster
    ```
 2. Open the project in Android Studio.
 3. Add the required WebRTC dependency in `build.gradle`:
