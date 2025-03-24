@@ -1,4 +1,4 @@
-# ScreenCaster
+# Stream Caster
 
 ScreenCaster is an Android service that captures the device screen and streams it using WebRTC. This project leverages the Android `MediaProjection` API and WebRTC for real-time screen sharing.
 
