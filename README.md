@@ -51,4 +51,4 @@ stopService(new Intent(this, ScreenCaptureService.class));
 This project is licensed under the MIT License.
 
 ## Author
-Developed by [Sk Wasim Akram]
+**Developed By** - [Sk Wasim Akram](https://github.com/skwasimakram13)
