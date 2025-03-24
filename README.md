@@ -27,6 +27,8 @@ ScreenCaster is an Android service that captures the device screen and streams i
 3. Add the required WebRTC dependency in `build.gradle`:
    ```gradle
    implementation 'org.webrtc:google-webrtc:1.0.32006'
+   or
+   implementation 'io.github.webrtc-sdk:android:125.6422.07'
    ```
 4. Build and run the app on a real Android device.
 
